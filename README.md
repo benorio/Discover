@@ -1,2 +1,4 @@
 # Discover
-Construção de habilidades em html-css-javascript
+Construção de habilidades em html-css-javascript.
+
+Projeto Dev.Finance$
