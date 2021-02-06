@@ -23,7 +23,7 @@
 
 ## 🚀 Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido na maratona Discover realizado pela <a href="http://app.rocketseat.com.br/">Rocketseat</a> com as seguintes tecnologias:
 
 - HTML
 - CSS
