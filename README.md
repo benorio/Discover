@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img alt="dev.finances" title="dev.finances" src="https://raw.githubusercontent.com/benorio/Discover/f2eff1e22a1b1c529e1876f0fd7b7a4e733c681c/V.1.1/assets/logo.svg" width="220px" />
+  <img alt="dev.finances" title="dev.finances" src="https://github.com/rocketseat-education/maratona-discover-01/blob/main/.github/logo.svg" width="220px" />
 </h1>
 
 <p align="center">
